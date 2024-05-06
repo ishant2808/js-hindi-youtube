@@ -22,7 +22,7 @@ let state;
 // null => standalone value
 // undefined =>
 //symbol => unique
-
+SafeArray
 
 // object 
 
