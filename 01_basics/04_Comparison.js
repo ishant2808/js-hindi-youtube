@@ -22,3 +22,9 @@ console.log(undefined > 0);
 // ===
 //in this datatype check in triple equal
 console.log("2" === 2);
+
+
+
+// Primitive or non primitive datatype
+// isliye haii kyukii
+// data ko memory location mai kaise rkh te hai  or kaise access krte haii
